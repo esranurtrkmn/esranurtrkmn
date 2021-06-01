@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 * 🌱 I’m currently learning Java,SQL and Javascript to develop Web programs
-*  💬 Ask me about anything in software especially Java on turkmenesranur@gmail.com
-*  📫 How to reach me: Mail on turkmenesranur@gmail.com
+* 📫 How to reach me: Mail on turkmenesranur@gmail.com
 
 <img src="https://github-readme-stats.vercel.app/api?username=EsranurTurkmen&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--
