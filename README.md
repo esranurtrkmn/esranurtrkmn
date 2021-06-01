@@ -7,11 +7,11 @@
 Here are some ideas to get you started:
 
  🔭 I’m currently working on Java,SQL and React to develop Web programs
-** 🌱 I’m currently learning Java,SQL and Javascript to develop Web programs
+* 🌱 I’m currently learning Java,SQL and Javascript to develop Web programs
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-** 💬 Ask me about anything in software especially Java on turkmenesranur@gmail.com
-** 📫 How to reach me: Mail on turkmenesranur@gmail.com
+* 💬 Ask me about anything in software especially Java on turkmenesranur@gmail.com
+* 📫 How to reach me: Mail on turkmenesranur@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
