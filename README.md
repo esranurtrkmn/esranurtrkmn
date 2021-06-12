@@ -13,7 +13,7 @@
 
 
 
-![Esranur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esranur&show_icons=true&theme=default)
+(https://github-readme-stats.vercel.app/api?username=Esranur&show_icons=true&theme=default)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CerenBdk&layout=compact&theme=light)
 
