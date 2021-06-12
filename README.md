@@ -20,7 +20,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=esranurtrkmn&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<a href="https://www.linkedin.com/in/esranurturkmen/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+
 <!--
 **esranurtrkmn/esranurtrkmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
