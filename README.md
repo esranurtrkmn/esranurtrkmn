@@ -19,7 +19,6 @@ Contact me!
 
 
 
-
 ![Esranur's GitHub stats](https://github-readme-stats.vercel.app/api?username=esranurtrkmn&show_icons=true&theme=default)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esranurtrkmn&layout=compact&theme=light)
