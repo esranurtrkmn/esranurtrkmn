@@ -15,7 +15,7 @@
 
 ![Esranur's GitHub stats](https://github-readme-stats.vercel.app/api?username=esranurtrkmn&show_icons=true&theme=default)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CerenBdk&layout=compact&theme=light)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esranurtrkmn&layout=compact&theme=light)
 
 <a href="mailto:turkmenesranur@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
