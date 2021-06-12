@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-* 📫 How to reach me: Mail on turkmenesranur@gmail.com
-
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -21,6 +18,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=esranurtrkmn&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+<a href="turkmenesranur@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/esranurturkmen/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgrootendorst/" alt="maartengrootendorst"/></a>
 <!--
 **esranurtrkmn/esranurtrkmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
